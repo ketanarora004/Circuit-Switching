@@ -1,9 +1,9 @@
 # CircuitSwitching
 /**         PROJECT DETAILS
- * Authors   :   Soham Kapur, Koushiki Sinha
+ * Authors   :  Ketan Arora
  * Year     :   2023
  * Title    :   Circuit Switching using Dynamic Programming
- * Purpose  :   Undergraduate Graded Project
+ * Purpose  :   Networking Project
  * Course   :   Computer Networks
  * Desc     :   Simulation of Circuit Switching in Java to find optimal set of paths for multiple data transfers using Dynamic Programming.
  */
